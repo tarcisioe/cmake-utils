@@ -10,4 +10,4 @@ Supported stuff
 
 * Creating a list of targets.
 * Generating .clang_complete files on the source directory.
-** This is togglable through an option.
+  * This is togglable through an option.
